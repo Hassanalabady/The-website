@@ -1,0 +1,55 @@
+body{
+    background-image: url(Bird1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+    font-size:35px;
+    margin-left:2c;
+}
+h2 {
+    color: red;
+    font-size:35;
+    margin-left:2c;
+}
+h3 {
+    color: red;
+    font-size:35px;
+    margin-left:2c;
+}
+h4 {
+    color: red;
+    font-size:35px;
+    margin-left:2c;
+}
+h5 {
+    color: blue;
+    font-size:35px;
+    margin-left:2c;
+}
+h6 {
+    color: blue;
+    font-size:35px;
+    margin:0c;
+}
+#nav {
+    color:blue;
+    background-color:red;
+    display:flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    border: red;
+    border-radius: 2cm;
+    border-style: double;
+}
+#nav a{
+    color:blanchedalmond;
+    font-size: 35px;
+    text-decoration:'blue',cursive;
+    font-family:fantasy;
+    font-size: 35px;
+}
+#nav a:hover{
+    color:rgb(50, 205, 192);
+}
