@@ -1,3 +1,3 @@
 # The-website
 
-github.com/Hassanalabady/The-website
+https://www.github.com/Hassanalabady/The-website
